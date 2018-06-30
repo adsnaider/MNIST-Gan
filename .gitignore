@@ -1,0 +1,7 @@
+input/
+data/
+checkpoints/
+summaries/
+
+*.csv
+*.pyc
